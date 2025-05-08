@@ -1,0 +1,3 @@
+"""
+SEO content generation module
+""" 
